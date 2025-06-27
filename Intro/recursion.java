@@ -12,5 +12,4 @@ public class recursion {
         printNaturalNumbers(count);
     }
 }
-
-    
+githup pr dekhu green h ya nii
